@@ -1,0 +1,14 @@
+C:\programming\oop_in_c#\Crud_Project\crud_project\crud_project\bin\Debug\net8.0\crud_project.exe
+C:\programming\oop_in_c#\Crud_Project\crud_project\crud_project\bin\Debug\net8.0\crud_project.deps.json
+C:\programming\oop_in_c#\Crud_Project\crud_project\crud_project\bin\Debug\net8.0\crud_project.runtimeconfig.json
+C:\programming\oop_in_c#\Crud_Project\crud_project\crud_project\bin\Debug\net8.0\crud_project.dll
+C:\programming\oop_in_c#\Crud_Project\crud_project\crud_project\bin\Debug\net8.0\crud_project.pdb
+C:\programming\oop_in_c#\Crud_Project\crud_project\crud_project\obj\Debug\net8.0\crud_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\oop_in_c#\Crud_Project\crud_project\crud_project\obj\Debug\net8.0\crud_project.AssemblyInfoInputs.cache
+C:\programming\oop_in_c#\Crud_Project\crud_project\crud_project\obj\Debug\net8.0\crud_project.AssemblyInfo.cs
+C:\programming\oop_in_c#\Crud_Project\crud_project\crud_project\obj\Debug\net8.0\crud_project.csproj.CoreCompileInputs.cache
+C:\programming\oop_in_c#\Crud_Project\crud_project\crud_project\obj\Debug\net8.0\crud_project.dll
+C:\programming\oop_in_c#\Crud_Project\crud_project\crud_project\obj\Debug\net8.0\refint\crud_project.dll
+C:\programming\oop_in_c#\Crud_Project\crud_project\crud_project\obj\Debug\net8.0\crud_project.pdb
+C:\programming\oop_in_c#\Crud_Project\crud_project\crud_project\obj\Debug\net8.0\crud_project.genruntimeconfig.cache
+C:\programming\oop_in_c#\Crud_Project\crud_project\crud_project\obj\Debug\net8.0\ref\crud_project.dll
